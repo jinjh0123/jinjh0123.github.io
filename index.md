@@ -1,3 +1,6 @@
+## About
+Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST, advised by [Alice Oh](https://aliceoh9.github.io/).
+
 ## Education
 - Ph.D. in Computer Science, KAIST, Sep 2022 -
 - M.S. in Computer Science, KAIST, Mar 2021 - Aug 2022
