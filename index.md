@@ -15,8 +15,8 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 ## Academic Services
 - Reviewer, NeurIPS 2022
 - Volunteer, FAccT 2022
-- Organizer, KAIST AI Workshop 21/22
+- Organizer, [KAIST AI Workshop 21/22](https://mars-ai.github.io/kaist-ai-workshop-2122)
 
 ## Teaching Experiences
-- Teaching Assistant, Introduction to Programming (Spring 2022, Fall 2022)
-- Teaching Assistant, KAIST SoC Colloquium (Fall 2021)
+- Teaching Assistant, [Introduction to Programming](https://cs101.kaist.ac.kr/) (Spring 2022, Fall 2022)
+- Teaching Assistant, [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) (Fall 2021)
