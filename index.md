@@ -8,6 +8,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 - B.S. in Mathematical Sciences, KAIST, Mar 2016 - Feb 2021
 
 ## Publications
+- Changyoon Lee, Junho Myung<sup>\*</sup>, Jieun Han<sup>\*</sup>, **Jiho Jin**<sup>\*</sup>, Alice Oh. [Learning from Teaching Assistants to Program with Subgoals: Exploring the Potential for AI Teaching Assistants](https://arxiv.org/abs/2309.10419). arXiv preprint.
 - Nayeon Lee, Chani Jung<sup>\*</sup>, Junho Myung<sup>\*</sup>, **Jiho Jin**, Juho Kim, Alice Oh. [CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset](https://arxiv.org/abs/2308.16705). arXiv preprint.
 - **Jiho Jin**<sup>\*</sup>, Jiseon Kim<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Haneul Yoo<sup>\*</sup>, Alice Oh, Hwaran Lee. [KoBBQ: Korean Bias Benchmark for Question Answering](https://arxiv.org/abs/2307.16778). arXiv preprint.
 - Juhee Son<sup>\*</sup>, **Jiho Jin**<sup>\*</sup>, Haneul Yoo, JinYeong Bak, Kyunghyun Cho, Alice Oh. [Translating Hanja Historical Documents to Contemporary Korean and English](https://arxiv.org/abs/2205.10019). EMNLP-Findings 2022.
