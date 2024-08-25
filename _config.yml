@@ -3,7 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: Jiho Jin
-description: jinjh0123@kaist.ac.kr
 
 github:
   is_user_page: false
