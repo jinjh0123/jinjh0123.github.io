@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Jiho Jin
+logo: /assets/img/jiho_jin.jpeg
 
 github:
   is_user_page: false
