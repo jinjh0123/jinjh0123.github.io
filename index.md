@@ -15,6 +15,16 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
   - Advisor: [Hwaran Lee](https://hwaranlee.github.io/)
 
 ## Publications
+- **BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages** (NeurIPS D&B 2024)
+  - Junho Myung<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Yi Zhou<sup>\*</sup>, **Jiho Jin**, Rifki Afina Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, Hwaran Lee, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
+  - **Best Paper @ C3NLP 2024**
+  - Presentation @ C3NLP @ ACL 2024
+  - [arXiv](https://arxiv.org/abs/2406.09948)
+
+- **Perceptions to Beliefs: Exploring Precursory Inferences for Theory of Mind in Large Language Models** (EMNLP 2024)
+  - Chani Jung, Dongkwan Kim, **Jiho Jin**, Jiseon Kim, Yeon Seonwoo, Yejin Choi, Alice Oh, Hyunwoo Kim
+  - [arXiv](https://arxiv.org/abs/2407.06004)
+
 - **Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis** (NAACL 2024, Oral)
   - Nayeon Lee, Chani Jung<sup>\*</sup>, Junho Myung<sup>\*</sup>, **Jiho Jin**, Juho Kim, Alice Oh
   - **Resource Award @ NAACL 2024 Best Paper Awards**
@@ -46,16 +56,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
-- **Perceptions to Beliefs: Exploring Precursory Inferences for Theory of Mind in Large Language Models** (2024)
-  - Chani Jung, Dongkwan Kim, **Jiho Jin**, Jiseon Kim, Yeon Seonwoo, Yejin Choi, Alice Oh, Hyunwoo Kim
-  - [arXiv](https://arxiv.org/abs/2407.06004)
-
-- **BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages** (2024)
-  - Junho Myung<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Yi Zhou<sup>\*</sup>, **Jiho Jin**, Rifki Afina Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, Hwaran Lee, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
-  - **Best Paper @ C3NLP 2024**
-  - Presentation @ C3NLP @ ACL 2024
-  - [arXiv](https://arxiv.org/abs/2406.09948)
-
 - **HyperCLOVA X Technical Report** (2024)
   - NAVER Cloud HyperCLOVA X Team (**Contributor**)
   - [arXiv](https://arxiv.org/abs/2404.01954)
