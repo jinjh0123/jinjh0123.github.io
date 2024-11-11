@@ -56,6 +56,14 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun** (2024)
+  - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2411.04822)
+
+- **Survey of Cultural Awareness in Language Models: Text and Beyond** (2024)
+  - Siddhesh Pawar<sup>\*</sup>, Junyeong Park<sup>\*</sup>, **Jiho Jin**, Arnav Arora, Junho Myung, Srishti Yadav, Faiz Ghifari Haznitrama, Inhwa Song, Alice Oh, Isabelle Augenstein
+  - [arXiv](https://arxiv.org/abs/2411.00860)
+
 - **HyperCLOVA X Technical Report** (2024)
   - NAVER Cloud HyperCLOVA X Team (**Contributor**)
   - [arXiv](https://arxiv.org/abs/2404.01954)
