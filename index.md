@@ -56,6 +56,14 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **Social Bias Benchmark for Generation: A Comparison of Generation and QA-Based Evaluations** (2025)
+  - **Jiho Jin**, Woosung Kang, Junho Myung, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2503.06987)
+
+- **HERITAGE: An End-to-End Web Platform for Processing Korean Historical Documents in Hanja** (2025)
+  - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2501.11951)
+
 - **When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun** (2024)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2411.04822)
@@ -76,12 +84,12 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Academic Services
-- Reviewer, NeurIPS (2022), NeurIPS D&B (2024), ICML (2023, 2024)
+- Reviewer, NeurIPS (2022), NeurIPS D&B (2024), ICML (2023, 2024), ARR (2024, 2025)
 - Volunteer, FAccT (2022), COLING (2022), ACL (2024)
 - Organizer, [KAIST AI Workshop 21/22](https://mars-ai.github.io/kaist-ai-workshop-2122)
 
 
 ## Teaching Experiences
-- Teaching Assistant, [Introduction to Programming](https://cs101.kaist.ac.kr/) (Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024)
+- Teaching Assistant, [Introduction to Programming](https://cs101.kaist.ac.kr/) (Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024, Spring 2025)
 - Teaching Assistant, [Machine Learning for Natural Language Processing](https://github.com/uilab-kaist/cs475-mlnlp-fall-2023) (Fall 2023)
 - Teaching Assistant, [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) (Fall 2021)
