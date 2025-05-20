@@ -15,6 +15,15 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
   - Advisor: [Hwaran Lee](https://hwaranlee.github.io/)
 
 ## Publications
+- **Social Bias Benchmark for Generation: A Comparison of Generation and QA-Based Evaluations** (ACL-Findings 2025)
+  - **Jiho Jin**, Woosung Kang, Junho Myung, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2503.06987)
+
+- **Survey of Cultural Awareness in Language Models: Text and Beyond** (CL 2025)
+  - Siddhesh Pawar<sup>\*</sup>, Junyeong Park<sup>\*</sup>, **Jiho Jin**, Arnav Arora, Junho Myung, Srishti Yadav, Faiz Ghifari Haznitrama, Inhwa Song, Alice Oh, Isabelle Augenstein
+  - Presentation @ ACL 2025
+  - [arXiv](https://arxiv.org/abs/2411.00860)
+
 - **BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages** (NeurIPS D&B 2024)
   - Junho Myung<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Yi Zhou<sup>\*</sup>, **Jiho Jin**, Rifki Afina Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, Hwaran Lee, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
   - **Best Paper @ C3NLP 2024**
@@ -56,10 +65,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
-- **Social Bias Benchmark for Generation: A Comparison of Generation and QA-Based Evaluations** (2025)
-  - **Jiho Jin**, Woosung Kang, Junho Myung, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2503.06987)
-
 - **HERITAGE: An End-to-End Web Platform for Processing Korean Historical Documents in Hanja** (2025)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2501.11951)
@@ -67,10 +72,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 - **When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun** (2024)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2411.04822)
-
-- **Survey of Cultural Awareness in Language Models: Text and Beyond** (2024)
-  - Siddhesh Pawar<sup>\*</sup>, Junyeong Park<sup>\*</sup>, **Jiho Jin**, Arnav Arora, Junho Myung, Srishti Yadav, Faiz Ghifari Haznitrama, Inhwa Song, Alice Oh, Isabelle Augenstein
-  - [arXiv](https://arxiv.org/abs/2411.00860)
 
 - **HyperCLOVA X Technical Report** (2024)
   - NAVER Cloud HyperCLOVA X Team (**Contributor**)
