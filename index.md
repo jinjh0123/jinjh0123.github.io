@@ -65,6 +65,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language** (2025)
+  - Seyoung Song, Seogyeong Jeong, Eunsu Kim, **Jiho Jin**, Dongkwan Kim, Jay Shin, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2505.14395)
+
 - **HERITAGE: An End-to-End Web Platform for Processing Korean Historical Documents in Hanja** (2025)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2501.11951)
