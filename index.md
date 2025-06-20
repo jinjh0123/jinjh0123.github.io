@@ -17,7 +17,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 ## Publications
 - **Social Bias Benchmark for Generation: A Comparison of Generation and QA-Based Evaluations** (ACL-Findings 2025)
   - **Jiho Jin**, Woosung Kang, Junho Myung, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2503.06987)
+  - [arXiv](https://arxiv.org/abs/2503.06987) [Webpage](https://jinjh0123.github.io/BBG/)
 
 - **Survey of Cultural Awareness in Language Models: Text and Beyond** (CL 2025)
   - Siddhesh Pawar<sup>\*</sup>, Junyeong Park<sup>\*</sup>, **Jiho Jin**, Arnav Arora, Junho Myung, Srishti Yadav, Faiz Ghifari Haznitrama, Inhwa Song, Alice Oh, Isabelle Augenstein
