@@ -35,7 +35,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
   - [arXiv](https://arxiv.org/abs/2407.06004)
 
 - **Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis** (NAACL 2024, Oral)
-  - Nayeon Lee, Chani Jung<sup>\*</sup>, Junho Myung<sup>\*</sup>, **Jiho Jin**, Juho Kim, Alice Oh
+  - Nayeon Lee, Chani Jung<sup>\*</sup>, Junho Myung<sup>\*</sup>, **Jiho Jin**, Jose Camacho-Collados, Juho Kim, Alice Oh
   - **Resource Award @ NAACL 2024 Best Paper Awards**
   - Presentation @ NLPerspectives @ LREC-COLING 2024
   - Presentation @ WOAH @ NAACL 2024
