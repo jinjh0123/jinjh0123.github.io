@@ -65,6 +65,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models** (2025)
+  - Haeun Yu, Seogyeong Jeong, Siddhesh Pawar, Jisu Shin, **Jiho Jin**, Junho Myung, Alice Oh, Isabelle Augenstein
+  - [arXiv](https://arxiv.org/abs/2508.08879)
+
 - **MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language** (2025)
   - Seyoung Song, Seogyeong Jeong, Eunsu Kim, **Jiho Jin**, Dongkwan Kim, Jay Shin, Alice Oh
   - [arXiv](https://arxiv.org/abs/2505.14395)
@@ -95,6 +99,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Teaching Experiences
-- Teaching Assistant, [Introduction to Programming](https://cs101.kaist.ac.kr/) (Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024, Spring 2025)
+- Teaching Assistant, [Introduction to Programming](https://cs101.kaist.ac.kr/) (Spring 2022, Fall 2022, Spring 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025)
 - Teaching Assistant, [Machine Learning for Natural Language Processing](https://github.com/uilab-kaist/cs475-mlnlp-fall-2023) (Fall 2023)
 - Teaching Assistant, [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) (Fall 2021)
