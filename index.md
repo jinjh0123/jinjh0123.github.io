@@ -15,6 +15,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
   - Advisor: [Hwaran Lee](https://hwaranlee.github.io/)
 
 ## Publications
+- **MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language** (EMNLP-Findings 2025)
+  - Seyoung Song<sup>\*</sup>, Seogyeong Jeong<sup>\*</sup>, Eunsu Kim, **Jiho Jin**, Dongkwan Kim, Jay Shin, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2505.14395)
+
 - **Social Bias Benchmark for Generation: A Comparison of Generation and QA-Based Evaluations** (ACL-Findings 2025)
   - **Jiho Jin**, Woosung Kang, Junho Myung, Alice Oh
   - [arXiv](https://arxiv.org/abs/2503.06987) [Webpage](https://jinjh0123.github.io/BBG/)
@@ -68,10 +72,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 - **Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models** (2025)
   - Haeun Yu, Seogyeong Jeong, Siddhesh Pawar, Jisu Shin, **Jiho Jin**, Junho Myung, Alice Oh, Isabelle Augenstein
   - [arXiv](https://arxiv.org/abs/2508.08879)
-
-- **MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language** (2025)
-  - Seyoung Song, Seogyeong Jeong, Eunsu Kim, **Jiho Jin**, Dongkwan Kim, Jay Shin, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2505.14395)
 
 - **HERITAGE: An End-to-End Web Platform for Processing Korean Historical Documents in Hanja** (2025)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
