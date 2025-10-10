@@ -32,7 +32,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
   - Junho Myung<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Yi Zhou<sup>\*</sup>, **Jiho Jin**, Rifki Afina Putri, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, Hwaran Lee, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
   - **Best Paper @ C3NLP 2024**
   - Presentation @ C3NLP @ ACL 2024
-  - [arXiv](https://arxiv.org/abs/2406.09948)
+  - [arXiv](https://arxiv.org/abs/2406.09948) [Webpage](https://junhomyung.github.io/BLEnD/)
 
 - **Perceptions to Beliefs: Exploring Precursory Inferences for Theory of Mind in Large Language Models** (EMNLP 2024)
   - Chani Jung, Dongkwan Kim, **Jiho Jin**, Jiseon Kim, Yeon Seonwoo, Yejin Choi, Alice Oh, Hyunwoo Kim
@@ -69,6 +69,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **Code-Switching In-Context Learning for Cross-Lingual Transfer of Large Language Models** (2025)
+  - Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2510.05678)
+
 - **Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models** (2025)
   - Haeun Yu, Seogyeong Jeong, Siddhesh Pawar, Jisu Shin, **Jiho Jin**, Junho Myung, Alice Oh, Isabelle Augenstein
   - [arXiv](https://arxiv.org/abs/2508.08879)
@@ -95,6 +99,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 ## Academic Services
 - Reviewer, NeurIPS (2022), NeurIPS D&B (2024), ICML (2023, 2024), ARR (2024, 2025)
 - Volunteer, FAccT (2022), COLING (2022), ACL (2024)
+- Co-Lead Organizer, [SemEval 2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7)
 - Organizer, [KAIST AI Workshop 21/22](https://mars-ai.github.io/kaist-ai-workshop-2122)
 
 
