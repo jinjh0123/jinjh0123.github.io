@@ -14,7 +14,12 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
   - Visiting Student (Mar 2023 - Sep 2023)
   - Advisor: [Hwaran Lee](https://hwaranlee.github.io/)
 
+
 ## Publications
+- **Shared Heritage, Distinct Writing: Rethinking Resource Selection for East Asian Historical Documents** (IJCNLP-AACL 2025)
+  - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2411.04822)
+
 - **MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language** (EMNLP-Findings 2025)
   - Seyoung Song<sup>\*</sup>, Seogyeong Jeong<sup>\*</sup>, Eunsu Kim, **Jiho Jin**, Dongkwan Kim, Jay Shin, Alice Oh
   - [arXiv](https://arxiv.org/abs/2505.14395)
@@ -80,10 +85,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 - **HERITAGE: An End-to-End Web Platform for Processing Korean Historical Documents in Hanja** (2025)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2501.11951)
-
-- **When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun** (2024)
-  - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2411.04822)
 
 - **HyperCLOVA X Technical Report** (2024)
   - NAVER Cloud HyperCLOVA X Team (**Contributor**)
