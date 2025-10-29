@@ -16,7 +16,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Publications
-- **Shared Heritage, Distinct Writing: Rethinking Resource Selection for East Asian Historical Documents** (IJCNLP-AACL 2025)
+- **Shared Heritage, Distinct Writing: Rethinking Resource Selection for East Asian Historical Documents** (IJCNLP-AACL-Findings 2025)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2411.04822)
 
