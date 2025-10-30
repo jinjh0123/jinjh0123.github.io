@@ -96,7 +96,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 - **Learning from Teaching Assistants to Program with Subgoals: Exploring the Potential for AI Teaching Assistants** (2023)
   - Changyoon Lee, Junho Myung<sup>\*</sup>, Jieun Han<sup>\*</sup>, **Jiho Jin**<sup>\*</sup>, Alice Oh
-  - Presentation @ Leveraging Large Language Models for Next Generation Educational Technologies Workshop @ EDM 2024
+  - Presentation @ L3MNGET @ EDM 2024
   - Presentation @ HuCLLM @ ACL 2024
   - [arXiv](https://arxiv.org/abs/2309.10419)
 
