@@ -74,6 +74,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **Open Korean Historical Corpus: A Millennia-Scale Diachronic Collection of Public Domain Texts** (2025)
+  - Seyoung Song, Nawon Kim, Songeun Chae, Kiwoong Park, **Jiho Jin**, Haneul Yoo, Kyunghyun Cho, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2510.24541)
+
 - **Code-Switching In-Context Learning for Cross-Lingual Transfer of Large Language Models** (2025)
   - Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2510.05678)
