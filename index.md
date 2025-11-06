@@ -103,6 +103,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 ## Academic Services
 - Reviewer, NeurIPS (2022), NeurIPS D&B (2024), ICML (2023, 2024), ARR (2024, 2025)
+  - Outstanding Reviewer Award @ EMNLP 2025 (ARR May 2025)
 - Volunteer, FAccT (2022), COLING (2022), ACL (2024)
 - Co-Lead Organizer, [SemEval 2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7)
 - Organizer, [KAIST AI Workshop 21/22](https://mars-ai.github.io/kaist-ai-workshop-2122)
