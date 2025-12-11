@@ -61,19 +61,23 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
   - [arXiv](https://arxiv.org/abs/2205.10019) [Webpage](https://juheeuu.github.io/h2ke-demo/)
 
 - **Models and Benchmarks for Representation Learning of Partially Observed Subgraphs** (CIKM 2022)
-  - Dongkwan Kim, **Jiho Jin**, Jaimeen Ahn and Alice Oh
+  - Dongkwan Kim, **Jiho Jin**, Jaimeen Ahn, Alice Oh
   - [arXiv](https://arxiv.org/abs/2209.00508)
 
 - **HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea** (NAACL-Findings 2022)
-  - Haneul Yoo, **Jiho Jin**, Juhee Son, JinYeong Bak, Kyunghyun Cho and Alice Oh
+  - Haneul Yoo, **Jiho Jin**, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh
   - [Paper](https://aclanthology.org/2022.findings-naacl.140/)
 
 - **Two-Step Question Retrieval for Open-Domain QA** (ACL-Findings 2022)
-  - Yeon Seonwoo<sup>\*</sup>, Juhee Son<sup>\*</sup>, **Jiho Jin**, Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha and Alice Oh
+  - Yeon Seonwoo<sup>\*</sup>, Juhee Son<sup>\*</sup>, **Jiho Jin**, Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha, Alice Oh
   - [Paper](https://aclanthology.org/2022.findings-acl.117/)
 
 
 ## Others
+- **World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models** (2025)
+  - Eunsu Kim<sup>\*</sup>, Junyeong Park<sup>\*</sup>, Na Min An<sup>\*</sup>, Junseong Kim<sup>\*\*</sup>, Hitesh Laxmichand Patel<sup>\*\*</sup>, **Jiho Jin**<sup>\*\*</sup>, Julia Kruk, Amit Agarwal, Srikant Panda, Fenal Ashokbhai Ilasariya, Hyunjung Shim, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2511.22787)
+
 - **Open Korean Historical Corpus: A Millennia-Scale Diachronic Collection of Public Domain Texts** (2025)
   - Seyoung Song, Nawon Kim, Songeun Chae, Kiwoong Park, **Jiho Jin**, Haneul Yoo, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2510.24541)
