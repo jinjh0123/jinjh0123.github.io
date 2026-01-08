@@ -16,6 +16,9 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Publications
+- **Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation** (EACL-Findings 2026)
+  - Juhyun Oh<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Chani Jung, **Jiho Jin**, Junho Myung, Jongwon Lee, Taieui Song, Alice Oh
+
 - **Shared Heritage, Distinct Writing: Rethinking Resource Selection for East Asian Historical Documents** (IJCNLP-AACL-Findings 2025)
   - Seyoung Song, Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2411.04822)
