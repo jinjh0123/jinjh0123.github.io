@@ -16,7 +16,15 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Publications
-- **Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation** (EACL-Findings 2026)
+- **World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models** (CVPR 2026)
+  - Eunsu Kim<sup>\*</sup>, Junyeong Park<sup>\*</sup>, Na Min An<sup>\*</sup>, Junseong Kim<sup>\*\*</sup>, Hitesh Laxmichand Patel<sup>\*\*</sup>, **Jiho Jin**<sup>\*\*</sup>, Julia Kruk, Amit Agarwal, Srikant Panda, Fenal Ashokbhai Ilasariya, Hyunjung Shim, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2511.22787)
+
+- **Open Korean Historical Corpus: A Millennia-Scale Diachronic Collection of Public Domain Texts** (LREC 2026)
+  - Seyoung Song, Nawon Kim, Songeun Chae, Kiwoong Park, **Jiho Jin**, Haneul Yoo, Kyunghyun Cho, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2510.24541)
+
+- **FINEST: Improving LLM Responses to Sensitive Topics Through Fine-Grained Evaluation** (EACL-Findings 2026)
   - Juhyun Oh<sup>\*</sup>, Nayeon Lee<sup>\*</sup>, Chani Jung, **Jiho Jin**, Junho Myung, Jongwon Lee, Taieui Song, Alice Oh
 
 - **Shared Heritage, Distinct Writing: Rethinking Resource Selection for East Asian Historical Documents** (IJCNLP-AACL-Findings 2025)
@@ -77,14 +85,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
-- **World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models** (2025)
-  - Eunsu Kim<sup>\*</sup>, Junyeong Park<sup>\*</sup>, Na Min An<sup>\*</sup>, Junseong Kim<sup>\*\*</sup>, Hitesh Laxmichand Patel<sup>\*\*</sup>, **Jiho Jin**<sup>\*\*</sup>, Julia Kruk, Amit Agarwal, Srikant Panda, Fenal Ashokbhai Ilasariya, Hyunjung Shim, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2511.22787)
-
-- **Open Korean Historical Corpus: A Millennia-Scale Diachronic Collection of Public Domain Texts** (2025)
-  - Seyoung Song, Nawon Kim, Songeun Chae, Kiwoong Park, **Jiho Jin**, Haneul Yoo, Kyunghyun Cho, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2510.24541)
-
 - **Code-Switching In-Context Learning for Cross-Lingual Transfer of Large Language Models** (2025)
   - Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2510.05678)
@@ -112,7 +112,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 - Co-Lead Organizer, [SemEval 2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7)
 - Organizer, [KAIST AI Workshop 21/22](https://mars-ai.github.io/kaist-ai-workshop-2122)
 - Student Volunteer, FAccT (2022), COLING (2022), ACL (2024)
-- Reviewer, NeurIPS (2022), NeurIPS D&B (2024), ICML (2023, 2024), ARR (2024, 2025)
+- Reviewer, NeurIPS (2022), NeurIPS D&B (2024), ICML (2023, 2024), ARR (2024, 2025, 2026), FAccT (2026)
   - Outstanding Reviewer Award @ EMNLP 2025 (ARR May 2025)
 
 
