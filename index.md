@@ -86,7 +86,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 ## Others
 - **JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors** (2026)
-  - **Jiho Jin**, Junho Myung, Juhyun Oh, Junyeong Park, Rifki Afina Putri, Sunipa Dev, Vinodkumar Prabhakaran, Alice Oh
+  - **Jiho Jin**<sup>\*</sup>, Junho Myung<sup>\*</sup>, Juhyun Oh, Junyeong Park, Rifki Afina Putri, Sunipa Dev, Vinodkumar Prabhakaran, Alice Oh
   - [arXiv](https://arxiv.org/abs/2605.26955) [Webpage](https://jinjh0123.github.io/JuICE/)
 
 - **SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures** (2026)
