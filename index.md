@@ -85,6 +85,14 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors** (2026)
+  - **Jiho Jin**, Junho Myung, Juhyun Oh, Junyeong Park, Rifki Afina Putri, Sunipa Dev, Vinodkumar Prabhakaran, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2605.26955) [Webpage](https://jinjh0123.github.io/JuICE/)
+
+- **SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures** (2026)
+  - Nedjma Ousidhoum, Junho Myung, Carla Perez-Almendros, **Jiho Jin**, Amr Keleg, Meriem Beloucif, Yi Zhou, Rodrigo Agerri, Vladimir Araujo, Naomi Baes, James Barry, Joanne Boisson, Nancy F. Chen, Christine de Kock, Aleksandra Edwards, Joseba Fernandez de Landa, Mohamed Fazli Imam, Huda Hakami, Shu-Kai Hsieh, Joseph Marvin Imperial, Roy Ka-Wei Lee, Zhengyuan Liu, Chenyang Lyu, Younes Samih, Johan Sjons, Bryan Tan, Asahi Ushio, Weihua Zheng, Alice Oh, Jose Camacho-Collados
+  - [arXiv](https://arxiv.org/abs/2605.02601)
+
 - **Code-Switching In-Context Learning for Cross-Lingual Transfer of Large Language Models** (2025)
   - Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2510.05678)
