@@ -16,7 +16,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Publications
-- **Code-Switching In-Context Learning for Cross-Lingual Transfer of Large Language Models** (COLM 2026)
+- **Gradual Code-Switching as Inference-Time Cross-Lingual Representational Alignment for LLMs** (COLM 2026)
   - Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2510.05678)
 
