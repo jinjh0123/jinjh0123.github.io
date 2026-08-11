@@ -89,6 +89,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **Investigating Social Bias in Narrative Image Generation** (2026)
+  - Junyeong Park, Sowon Min, Euna Jang, Soobin Kim, **Jiho Jin**, Hyunseung Lim, Gahyeon Bae, Hwajung Hong
+  - [arXiv](https://arxiv.org/abs/2608.01780)
+
 - **Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability** (2026)
   - Alicia Parrish<sup>\*</sup>, Rajat Shinde<sup>\*</sup>, Sanket Badhe, Xinyi Bai, Sree Bhargavi Balija, Hua-Rong Chu, Emilio Ferrara, Armstrong Foundjem, Rajat Ghosh, Aakash Gupta, Xuanli He, Ong Chen Hui, Minji Jung, Madhangi Karimanal, Faiza Khan Khattak, Boryoung Kim, Eugenia Kim, Liliya Lavitas, Seok Min Lim, Victor Lu, Jim Moirangthem, Dhivya Nagasubramanian, Deepak Pandita, Sita Rajagopal, Geetha Raju, Evgeniia Razumovskaia, Aravind Reddy, Federico Ricciuti, Nobin Sarwar, Sungpil Shin, Sunayana Sitaram, Snehal Thorat, Tharindu Cyril Weerasooriya, Jasmijn Bastings, Joachim Baumann, Kongtao Chen, Murali Emani, Mariya Hendriksen, **Jiho Jin**, Jun Seong Kim, Younghoon Ko, Alicja Kwasniewska, Minjae Lee, Tom Wei-cyuan Lin Kashyap Ramanandula Manjusha, Junho Myung, Junyeong Park, Roma Patel, Shyam Ratan, Sudarsun Santhiappan, Priyanka Suresh, Tuesday, Ksheeraj Sai Vepuri Laura Amortegui-Ordonez, Claire Dennis, Minsuk Kahng, Chris Knotz, Alice Oh, Balaraman Ravindran, Soojung Ryu William Bartholomew, Hiwot Tesfaye, Lora Aroyo
   - [arXiv](https://arxiv.org/abs/2607.06196)
