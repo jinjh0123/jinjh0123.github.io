@@ -10,6 +10,9 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Experience
+- New York University (NYU)
+  - Visiting Scholar (Sep 2026 - Dec 2026)
+  - Host: [Kyunghyun Cho](https://kyunghyuncho.me/)
 - NAVER AI Lab
   - Visiting Student (Mar 2023 - Sep 2023)
   - Advisor: [Hwaran Lee](https://hwaranlee.github.io/)
@@ -89,6 +92,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Others
+- **Human-AI Co-Creativity: Advances, Opportunities, and Challenges** (2026)
+  - Adish Singla, Abhilasha Ravichander, Liwei Jiang, Alexander Spangher, Alice Oh, **Jiho Jin**, Jun Seong Kim, Changyoon Lee, Manh Hung Nguyen, Chao Wen
+  - [arXiv](https://arxiv.org/abs/2609.07711)
+
 - **Investigating Social Bias in Narrative Image Generation** (2026)
   - Junyeong Park, Sowon Min, Euna Jang, Soobin Kim, **Jiho Jin**, Hyunseung Lim, Gahyeon Bae, Hwajung Hong
   - [arXiv](https://arxiv.org/abs/2608.01780)
@@ -127,7 +134,7 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 ## Academic Services
 - Co-Lead Organizer, [SemEval 2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures](https://github.com/BLEnD-SemEval2026/SemEval-2026-Task-7)
 - Organizer, [KAIST AI Workshop 21/22](https://mars-ai.github.io/kaist-ai-workshop-2122)
-- Student Volunteer, FAccT (2022), COLING (2022), ACL (2024)
+- Student Volunteer, FAccT (2022), COLING (2022), ACL (2024), WiML@ICML (2026), GenAICreativity@ICML (2026)
 - Reviewer, NeurIPS (2022, 2024 D&B, 2026 E&D), ICML (2023, 2024), ARR (2024, 2025, 2026), FAccT (2026), L@S (2026)
   - Outstanding Reviewer Award @ EMNLP 2025 (ARR May 2025)
 
