@@ -19,6 +19,10 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 
 
 ## Publications
+- **JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors** (NeurIPS E&D 2026)
+  - **Jiho Jin**<sup>\*</sup>, Junho Myung<sup>\*</sup>, Juhyun Oh, Junyeong Park, Rifki Afina Putri, Sunipa Dev, Vinodkumar Prabhakaran, Alice Oh
+  - [arXiv](https://arxiv.org/abs/2605.26955) [Webpage](https://jinjh0123.github.io/JuICE/)
+
 - **Gradual Code-Switching as Inference-Time Cross-Lingual Representational Alignment for LLMs** (COLM 2026)
   - Haneul Yoo, **Jiho Jin**, Kyunghyun Cho, Alice Oh
   - [arXiv](https://arxiv.org/abs/2510.05678)
@@ -103,10 +107,6 @@ Hi, I am a Ph.D. student at [Users & Information Lab.](https://uilab.kr) @ KAIST
 - **Pluralis v0.1: Towards a Multicultural, Multimodal, Multilingual Benchmark for AI Risk and Reliability** (2026)
   - Alicia Parrish<sup>\*</sup>, Rajat Shinde<sup>\*</sup>, Sanket Badhe, Xinyi Bai, Sree Bhargavi Balija, Hua-Rong Chu, Emilio Ferrara, Armstrong Foundjem, Rajat Ghosh, Aakash Gupta, Xuanli He, Ong Chen Hui, Minji Jung, Madhangi Karimanal, Faiza Khan Khattak, Boryoung Kim, Eugenia Kim, Liliya Lavitas, Seok Min Lim, Victor Lu, Jim Moirangthem, Dhivya Nagasubramanian, Deepak Pandita, Sita Rajagopal, Geetha Raju, Evgeniia Razumovskaia, Aravind Reddy, Federico Ricciuti, Nobin Sarwar, Sungpil Shin, Sunayana Sitaram, Snehal Thorat, Tharindu Cyril Weerasooriya, Jasmijn Bastings, Joachim Baumann, Kongtao Chen, Murali Emani, Mariya Hendriksen, **Jiho Jin**, Jun Seong Kim, Younghoon Ko, Alicja Kwasniewska, Minjae Lee, Tom Wei-cyuan Lin Kashyap Ramanandula Manjusha, Junho Myung, Junyeong Park, Roma Patel, Shyam Ratan, Sudarsun Santhiappan, Priyanka Suresh, Tuesday, Ksheeraj Sai Vepuri Laura Amortegui-Ordonez, Claire Dennis, Minsuk Kahng, Chris Knotz, Alice Oh, Balaraman Ravindran, Soojung Ryu William Bartholomew, Hiwot Tesfaye, Lora Aroyo
   - [arXiv](https://arxiv.org/abs/2607.06196)
-
-- **JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors** (2026)
-  - **Jiho Jin**<sup>\*</sup>, Junho Myung<sup>\*</sup>, Juhyun Oh, Junyeong Park, Rifki Afina Putri, Sunipa Dev, Vinodkumar Prabhakaran, Alice Oh
-  - [arXiv](https://arxiv.org/abs/2605.26955) [Webpage](https://jinjh0123.github.io/JuICE/)
 
 - **SemEval-2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures** (2026)
   - Nedjma Ousidhoum, Junho Myung, Carla Perez-Almendros, **Jiho Jin**, Amr Keleg, Meriem Beloucif, Yi Zhou, Rodrigo Agerri, Vladimir Araujo, Naomi Baes, James Barry, Joanne Boisson, Nancy F. Chen, Christine de Kock, Aleksandra Edwards, Joseba Fernandez de Landa, Mohamed Fazli Imam, Huda Hakami, Shu-Kai Hsieh, Joseph Marvin Imperial, Roy Ka-Wei Lee, Zhengyuan Liu, Chenyang Lyu, Younes Samih, Johan Sjons, Bryan Tan, Asahi Ushio, Weihua Zheng, Alice Oh, Jose Camacho-Collados
